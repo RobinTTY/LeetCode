@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Problem.0001", "LeetCode.Problem.0001\LeetCode.Problem.0001.csproj", "{2081BADC-100E-4C6E-93AE-C19CDD122F83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Problem.0001_TwoSum", "LeetCode.Problem.0001_TwoSum\LeetCode.Problem.0001_TwoSum.csproj", "{2081BADC-100E-4C6E-93AE-C19CDD122F83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

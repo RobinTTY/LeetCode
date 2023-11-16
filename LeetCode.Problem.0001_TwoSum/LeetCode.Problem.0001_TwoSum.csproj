@@ -6,6 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <LangVersion>11</LangVersion>
+        <RootNamespace>LeetCode.Problem.0001</RootNamespace>
     </PropertyGroup>
 
 </Project>
